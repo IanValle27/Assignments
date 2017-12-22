@@ -1,0 +1,16 @@
+contestB.in has 6 problems over 12 hours
+Pr#	Time	Points
+1	2	5
+2	3	6
+3	2	4
+4	5	3
+5	1	1
+6	7	8
+
+The selected  problems for the highest contest score are: 
+	Problem	Points
+	1	5
+	2	6
+	6	8
+
+Target problem list yields 19 points

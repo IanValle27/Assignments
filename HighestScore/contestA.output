@@ -1,0 +1,14 @@
+contestA.in has 4 problems over 10 hours
+Pr#	Time	Points
+1	2	4
+2	3	5
+3	4	6
+4	6	7
+
+The selected  problems for the highest contest score are: 
+	Problem	Points
+	1	4
+	2	5
+	3	6
+
+Target problem list yields 15 points
