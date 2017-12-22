@@ -145,7 +145,7 @@ HugeInteger *parseString(char *str)
     }
     //set p's length for other necessary function calls
     p->length = length;
-    free(str);
+
     return p;
 }
 

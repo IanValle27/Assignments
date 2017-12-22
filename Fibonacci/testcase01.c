@@ -22,7 +22,7 @@ void hugePrint(HugeInteger *p)
 int main(void)
 {
 	HugeInteger *p;
-
+	
 	hugePrint(p = parseString("12345"));
 	hugeDestroyer(p);
 
