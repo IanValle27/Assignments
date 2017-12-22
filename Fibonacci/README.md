@@ -1,6 +1,17 @@
 #### Fibonacci
 
+##### Requirements
+
+* Compiling
+  * Linux / Mac terminal with gcc
+  * Windows with bash or an ide
+* Files
+  * Fibonacci.c
+  * Fibonacci.h
+  * testcase0#.c
+
 ##### Compilation and Testting (Linux/Mac Command Line)
+
 * Compile multiple source files (.c files) at the command line:
   * gcc Fibonacci.c testcase01.c
 * By default, this will produce an executable file called a.out, which you can run by typing:
