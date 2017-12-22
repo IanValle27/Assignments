@@ -10,5 +10,5 @@
 * Use diff to compare against the test cases
   * diff output.txt output01.txt  
 If the files differ it will output information about the lines that aren't the same
-* Use Use the test all shell script to test all test cases at once after compiling
+* Use the test all shell script to test all test cases at once after compiling
   * ./test-all.sh
