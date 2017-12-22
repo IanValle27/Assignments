@@ -1,5 +1,10 @@
 #### Fibonacci
 
+This program uses 2 input files Fibonacci.c and the testcase files  
+to demonstrate the parsing of both an int and a string to a HugeInteger struct  
+as well as calculating Fibonacci to the 1000th term in O(nk)  
+where n is the parameter passed to the function and k is the number of digits in F(n)  
+
 ##### Requirements
 
 * Compiling
