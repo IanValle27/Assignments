@@ -4,7 +4,7 @@
 
 * Compiling
   * Linux / Mac terminal with gcc
-  * Windows with bash or an ide
+  * Windows with bash and gcc or an ide
 * Files
   * Fibonacci.c
   * Fibonacci.h
