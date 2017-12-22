@@ -4,7 +4,7 @@ Language: C
 
 This program uses 2 input files Fibonacci.c and the testcase files  
 to demonstrate the parsing of both an int and a string to a HugeInteger struct  
-as well as calculating Fibonacci to the 1000th term in O(nk)  
+as well as calculating the Fibonacci sequence to the 1000th term in O(nk)  
 where n is the parameter passed to the function and k is the number of digits in F(n)  
 
 ##### Requirements
@@ -17,7 +17,7 @@ where n is the parameter passed to the function and k is the number of digits in
   * Fibonacci.h
   * testcase0#.c
 
-##### Compilation and Testting (Linux/Mac Command Line)
+##### Compilation and Testing (Linux/Mac Command Line)
 
 * Compile multiple source files (.c files) at the command line:
   * gcc Fibonacci.c testcase01.c
